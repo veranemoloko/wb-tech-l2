@@ -18,6 +18,7 @@ func getNTPTime(server string) (time.Time, error) {
 	}
 	return t, nil
 }
+
 func main() {
 
 	logger := slog.New(slog.NewTextHandler(os.Stderr, nil))
