@@ -10,7 +10,7 @@ More detailed README files for each task can be found in their respective subdir
 
 - **Task 1: NTP Time Client**  
   A program that prints the exact current time from an NTP server.  
-  [See details](./task1-ntp-time/README.md)
+  [See details](./ntp_time_fetcher/readme.md)
 
 
 ---
