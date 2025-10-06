@@ -1,0 +1,60 @@
+file9	1.1E
+file8	9.0P
+file7	7.8T
+file6	5.6G
+3.5G
+file5	3.4M
+2M
+file2	1M
+9.5K
+file4	1.2K
+file1	1K
+678
+file3	500
+123
+alpha	100
+gamma	75
+beta	50
+45
+epsilon	25
+delta	25
+22
+apple	10
+omega	5
+psi	5
+chi	5
+phi	5
+upsilon	5
+tau	5
+sigma	5
+rho	5
+pi	5
+omicron	5
+xi	5
+nu	5
+mu	5
+lambda	5
+kappa	5
+iota	5
+eta	5
+theta	5
+cherry	5
+special%	3
+special$	3
+special#	3
+special@	3
+special!	3
+2.2a
+ 2.2a
+  2.2a
+    2.2a
+banana	2
+zeta  0
+        tab
+Mar
+Jan1
+Jan
+Feb
+Dec   
+Apr
+

@@ -1,0 +1,65 @@
+cherry 
+22
+banana 2
+file1	1K
+file2	1M
+file3	500
+Jan
+Jan1
+Feb
+Mar
+Apr
+Dec   
+123
+45
+678
+9.5K
+2M
+banana 2
+3.5G
+apple	10
+banana	2
+cherry	5
+zeta  0
+alpha	100
+beta	50
+gamma	75
+delta	25
+epsilon	25
+theta	5
+eta	5
+iota	5
+kappa	5
+lambda	5
+mu	5
+nu	5
+xi	5
+omicron	5
+pi	5
+rho	5
+sigma	5
+tau	5
+upsilon	5
+phi	5
+chi	5
+psi	5
+omega	5
+
+special!	3
+special@	3
+special#	3
+special$	3
+special%	3
+file4	1.2K
+file5	3.4M
+file6	5.6G
+file7	7.8T
+file8	9.0P
+file9	1.1E
+apple	10
+        tab
+  2.2a
+2.2a
+ 2.2a
+    2.2a
+

@@ -1,0 +1,18 @@
+file9	1.1E
+file8	9.0P
+file7	7.8T
+file6	5.6G
+file5	3.4M
+file2	1M
+file4	1.2K
+file1	1K
+file3	500
+alpha	100
+gamma	75
+beta	50
+delta	25
+apple	10
+cherry	5
+special!	3
+banana	2
+22
